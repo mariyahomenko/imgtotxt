@@ -4,6 +4,6 @@
 Можно добавить изменение контраста и яркости или сглаживание шумов, а также исправление опечаток.
 Еще можно добавить возможность пользователю работать не только с текстом, но и с изображением (ставить метки, масштабировать).
 
-![image](https://user-images.githubusercontent.com/73564203/115099016-03784580-9f3c-11eb-828c-54e83e0470da.png)
+![image](https://user-images.githubusercontent.com/73564203/115099196-ff005c80-9f3c-11eb-8649-674f695fabdb.png)
 
-![image](https://user-images.githubusercontent.com/73564203/115099146-b9dc2a80-9f3c-11eb-83bf-abbd63057ce3.png)
+![image](https://user-images.githubusercontent.com/73564203/115099204-09baf180-9f3d-11eb-8e07-13422d9d10f4.png)
